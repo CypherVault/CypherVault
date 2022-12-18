@@ -5,4 +5,4 @@
 " Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure..."
 -Teddy Roosevelt
 
-<---CypherVault/CypherVault is a ✨ niche ✨ repository--->
+<---CypherVault/CypherVault is a academic/personal repository--->
